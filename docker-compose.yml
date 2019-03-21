@@ -45,7 +45,7 @@ volumes:
     driver: local
     driver_opts:
       type: none
-      device: /home/daan/node_project/views/
+      device: /home/daan/nodejs-image-demo/views/
       o: bind
 
 networks:
